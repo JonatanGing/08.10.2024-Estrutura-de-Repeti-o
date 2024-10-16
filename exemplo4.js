@@ -1,7 +1,7 @@
 // crie um algoritimo que receba 6 numeros
 // e imprima a sua media aritmetica
 
-const prompt = require('prompt-sync')()
+const prompt = require("prompt-sync")();
 
 let soma = 0
 
