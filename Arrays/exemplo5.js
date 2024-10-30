@@ -6,7 +6,7 @@
 const prompt = require("prompt-sync")();
 
 // criando um array vazio chamado notas
-let notas = new Array(4)
+let notas = new Array(84)
 
 // criando uma variavel para armazenar a soma das notas
 let soma = 0;
